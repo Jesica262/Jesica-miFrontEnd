@@ -1,0 +1,15 @@
+{
+  "name": "yo-programo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

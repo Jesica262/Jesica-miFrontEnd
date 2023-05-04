@@ -1,0 +1,11 @@
+Guia de instalación 
+
+- node
+- sudo apt install node-typescript
+- tsc -v
+- tsc app/app.ts
+- tsc --init
+- tsc
+- npm install http-server
+- npm init
+- npm start
